@@ -1,3 +1,3 @@
-var http = require('http');
-ù
-jfehgiu"rgiughoeirhgguzgvfyzouguiehifzhooiz
+function direBonjour() {
+    return "Hello World";
+}
